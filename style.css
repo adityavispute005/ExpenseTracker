@@ -1,0 +1,45 @@
+/* Add your custom styles here */
+
+body {
+    background-color: #F1F0CC;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: #A71D31;
+    font-family: Lucida Handwriting;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #A71D31;
+    border: none;
+    text-align: center;
+}
+
+.btn-primary:hover {
+    background-color: #A71D31;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.table thead {
+    background-color: #A71D31;
+    color: #fff;
+}
